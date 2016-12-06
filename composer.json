@@ -1,0 +1,16 @@
+{
+    "name": "sereno/installer",
+    "description": "Install sereno website builder.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul Kadyan",
+            "email": "hi@znck.me"
+        }
+    ],
+    "require": {
+        "sereno/core": "^0.3"
+    },
+    "bin": ["sereno"]
+}
