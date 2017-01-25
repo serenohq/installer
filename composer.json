@@ -10,7 +10,11 @@
         }
     ],
     "require": {
-        "sereno/core": "^0.3"
+        "sereno/core": "^0.3",
+        "sereno/docs": "^0.1",
+        "sereno/blog": "^0.1",
+        "sereno/projects": "^0.1",
+        "sereno/plain": "^0.1"
     },
     "bin": ["sereno"]
 }
